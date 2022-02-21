@@ -2,14 +2,14 @@
 
 ### My name is Vitaly and I am a front-end developer
 **my tech stack**
-*HTML
-*CSS
-*SCSS
-*Tailwind CSS
-*PHP
-*JavaScript
-*Vue
-*Alpine JS
+* HTML
+* CSS
+* SCSS
+* Tailwind CSS
+* PHP
+* JavaScript
+* Vue
+* Alpine JS
 <!--
 **Vitas810/vitas810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
