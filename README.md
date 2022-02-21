@@ -1,7 +1,7 @@
 ### Hi👋
 
 ### My name is Vitaly and I am a front-end developer
-**my tech stack**
+**My tech stack:**
 * HTML
 * CSS
 * SCSS
@@ -10,6 +10,8 @@
 * JavaScript
 * Vue
 * Alpine JS
+
+📱Сontact with me
 <!--
 **Vitas810/vitas810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
