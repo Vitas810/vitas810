@@ -11,7 +11,7 @@
 * Vue
 * Alpine JS
 
-📱Сontact with me [Telegram](vitas810)
+📱Сontact with me [Telegram](https://t.me/vitas810)
 <!--
 **Vitas810/vitas810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
