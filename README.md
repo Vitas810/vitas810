@@ -11,6 +11,11 @@
 * JavaScript
 * Vue
 * Alpine JS
+* ESLint
+* Stylelint
+* Husky
+* Docker
+* Docker-compose
 
 📱Сontact with me: [Telegram](https://t.me/vitas810)
 <!--
