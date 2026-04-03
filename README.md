@@ -1,34 +1,30 @@
-### Hi👋
+### 👋 Привет
 
-### My name is Vitaly and I am a front-end developer
-**My tech stack:**
-* HTML
-* CSS
-* SCSS
-* Tailwind CSS
-* PHP
-* Laravel
-* JavaScript
-* Vue
-* Alpine JS
-* ESLint
-* Stylelint
-* Husky
-* Docker
-* Docker-compose
+Я Виталий, frontend-разработчик с 5+ годами опыта.
 
-📱Сontact with me: [Telegram](https://t.me/vitas810)
-<!--
-**Vitas810/vitas810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Специализируюсь на Vue / TypeScript. Работал с продуктами, где есть сложная бизнес-логика, высокая нагрузка и требования к производительности (маркетплейсы, CRM).
 
-Here are some ideas to get you started:
+### 🚀 Чем занимаюсь
+— разрабатываю SPA и SSR приложения (Nuxt)  
+— проектирую архитектуру и структуру фронтенда  
+— оптимизирую производительность (рендеринг, загрузка, бандл)  
+— работаю с API (REST / GraphQL) и состоянием приложения  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Практические результаты
+— улучшал Lighthouse Performance с ~60 до 80–85  
+— снижал LCP примерно с 3.5–4s до 2–2.5s  
+— уменьшал размер бандла на 20–30% (code splitting, lazy loading)  
+— оптимизировал ререндеры и работу с данными в сложных интерфейсах  
+
+### 🧰 Стек
+Vue 3, Nuxt, TypeScript, Pinia, GraphQL, Vite, Webpack, SCSS  
+
+### 🤖 AI в разработке
+Использую Cursor / Codex как инструмент ускорения:  
+декомпозирую задачи, генерирую часть кода, дальше дорабатываю и проверяю вручную.
+
+### 📌 Что важно в работе
+Стараюсь писать код, который можно поддерживать и масштабировать, без лишнего усложнения.
+
+### 📫 Контакты
+Telegram: https://t.me/vitas810
