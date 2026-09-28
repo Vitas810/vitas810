@@ -11,4 +11,4 @@ Vue 3, Nuxt, TypeScript, Pinia, GraphQL, Vite, Webpack, SCSS, React
 Стараюсь писать код, который можно поддерживать и масштабировать, без лишнего усложнения.
 
 ### Контакты
-[напишите мне в Telegram](https://t.me/Vitas810
+[напишите мне в Telegram](https://t.me/Vitas810)
